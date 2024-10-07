@@ -103,5 +103,7 @@ if (user_input === "winter"){
       </div>`
 }
 
-
+else {
+ alert("please write valid input")
+}
 
